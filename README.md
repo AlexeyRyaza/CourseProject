@@ -4,26 +4,26 @@
 
 ![Algorithm scheme](schemes/ПриложениеВ.png)
 
-## Блок-схема алгоритма сборки центральных угловых элементов
+## Блок-схема алгоритма реализующего нанесения урона
 
-Применяется в: `Fundamentals-of-algorithmization-and-programming/353505/Могилевец Д.Э./Курсовая работа/CubeAnimation/CubeAnimation/content/solver.cpp` в методе solveCenterAngles(), результат работы обрабатывается в методе Solution(QMap<QString, QString> state)
+Применяется в: `Fundamentals-of-algorithmization-and-programming/353503/Рязанцев А.В./Курсовая работа/Project/Source/Cursach/BaseCharacter.cpp` в методе Atack(), результат работы обрабатывается в блюпринте BP_MainCharacter
 
-![Algorithm scheme](schemes/scheme2.png)
+![Algorithm scheme](schemes/ПриложениеГ.png)
 
-## Блок-схема алгоритма сборки рёбер
+## Блок-схема алгоритма реализущего передвижение враждебных существ
 
-Применяется в: `Fundamentals-of-algorithmization-and-programming/353505/Могилевец Д.Э./Курсовая работа/CubeAnimation/CubeAnimation/content/solver.cpp` в методе solveEdges(), результат работы обрабатывается в методе Solution(QMap<QString, QString> state)
+Применяется в: `Fundamentals-of-algorithmization-and-programming/353503/Рязанцев А.В./Курсовая работа/Project/Source/Cursach/EnemyCharacter.cpp` в методе MoveCall(), результат работы обрабатывается в блюпринте BP_EnemyChar
 
 ![Algorithm scheme](schemes/scheme3.png)
 
-## Блок-схема алгоритма расстановки углов
+## Блок-схема алгоритма реализущего передвижение игрока
 
-Применяется в: `Fundamentals-of-algorithmization-and-programming/353505/Могилевец Д.Э./Курсовая работа/CubeAnimation/CubeAnimation/content/solver.cpp` в методе solveAngles(), результат работы обрабатывается в методе Solution(QMap<QString, QString> state)
+Применяется в: `Fundamentals-of-algorithmization-and-programming/353503/Рязанцев А.В./Курсовая работа/Project/Content/BPs/Entities/BP_MainCharater.uasset` в методах MoveUP(), MoveRight(), MoveLeft(), MoveDown(), результат работы обрабатывается в блюпринте BP_MainCharacter
 
 ![Algorithm scheme](schemes/scheme4.png)
 
-## Блок-схема алгоритма расстановки рёбер
+## Блок-схема алгоритма реализущего размещение объектов
 
-Применяется в: `Fundamentals-of-algorithmization-and-programming/353505/Могилевец Д.Э./Курсовая работа/CubeAnimation/CubeAnimation/content/solver.cpp` в методе solveEdgesFinal(), результат работы обрабатывается в методе Solution(QMap<QString, QString> state)
+Применяется в: `Fundamentals-of-algorithmization-and-programming/353503/Рязанцев А.В./Курсовая работа/Project/Content/Interface/Widgets/WPB_Key.uasset` в методе onClicked(), результат работы обрабатывается в блюпринте Bp_BaseSurface
 
 ![Algorithm scheme](schemes/scheme5.png)
