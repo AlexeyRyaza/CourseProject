@@ -1,8 +1,8 @@
-## Блок-схема алгоритма сборки центральных рёберных элементов
+## Блок-схема алгоритма реализующего поиск пути
 
-Применяется в: `Fundamentals-of-algorithmization-and-programming/353505/Могилевец Д.Э./Курсовая работа/CubeAnimation/CubeAnimation/content/solver.cpp` в методе solveCenterEdges(), результат работы обрабатывается в методе Solution(QMap<QString, QString> state)
+Применяется в: `Fundamentals-of-algorithmization-and-programming/353503/Рязанцев А.В./Курсовая работа/Project/Source/Cursach/EnemyCharacter.cpp` в методе Move(), результат работы обрабатывается в блюпринте BP_EnemyChar
 
-![Algorithm scheme](schemes/scheme1.png)
+![Algorithm scheme](schemes/ПриложениеВ.png)
 
 ## Блок-схема алгоритма сборки центральных угловых элементов
 
